@@ -1,6 +1,6 @@
 # 👪 piplcount
 
-Count how many humans (frontal faces)are in the scene (from cam feed or video file).
+Count how many humans (frontal faces) are in the scene (from cam feed or video file).
 
 ## 🎥 Sample
 ![piplcount](https://github.com/policratus/piplcount/blob/master/sample/piplcount.webp)
@@ -18,7 +18,7 @@ cd piplcount
 pip install -r requirements/requirements.txt
 ```
 
-## ⚙Usage
+## ⚙ Usage
 There are two options of use with `piplcount`: stream from a camera or a video file. To stream using you webcam, issue:
 
 `./piplcount stream webcam`
@@ -27,5 +27,5 @@ If you want to stream from a video file, issue:
 
 `./piplcount stream /path/to/your/video.file`
 
-## ⛓Dependencies
+## ⛓ Dependencies
 `Piplcount` uses heavily [OpenCV](http://opencv.org/) and was tested with OpenCV 3.3.0. Despite this dependency is added to `requirements.txt`, is **encouraged** to use a manually compiled version. This article from Manuel Ignacio López Quintero can help you: http://milq.github.io/install-opencv-ubuntu-debian/. It's important also to include the support for [ffmpeg](https://www.ffmpeg.org/) when compiling OpenCV.
