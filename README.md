@@ -1,5 +1,6 @@
 # piplcount
 👪 Count how many humans (frontal faces)are in the scene (from cam feed or video file).
+![piplcount](https://github.com/policratus/master/blob/master/sample/piplcount.webp)
 
 ## 🛠 Installation
 Assuming that you've a Unix like OS or emulation, [git](https://git-scm.com/), [Python](https://www.python.org/) 3 and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) installed, just issue:
