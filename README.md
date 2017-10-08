@@ -1,6 +1,10 @@
-# piplcount
-👪 Count how many humans (frontal faces)are in the scene (from cam feed or video file).
+# 👪 piplcount
+
+Count how many humans (frontal faces)are in the scene (from cam feed or video file).
+
+## 🎥 Sample
 ![piplcount](https://github.com/policratus/piplcount/blob/master/sample/piplcount.webp)
+*Just Go With It*, Dir. Dennis Dugan. Perfs. Adam Sandler, Jeniffer Aniston. Columbia Pictures, 2011
 
 ## 🛠 Installation
 Assuming that you've a Unix like OS or emulation, [git](https://git-scm.com/), [Python](https://www.python.org/) 3 and [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io/en/latest/) installed, just issue:
