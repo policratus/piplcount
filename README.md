@@ -4,6 +4,7 @@ Count how many humans (frontal faces)are in the scene (from cam feed or video fi
 
 ## 🎥 Sample
 ![piplcount](https://github.com/policratus/piplcount/blob/master/sample/piplcount.webp)
+
 *Just Go With It*, Dir. Dennis Dugan. Perfs. Adam Sandler, Jeniffer Aniston. Columbia Pictures, 2011
 
 ## 🛠 Installation
